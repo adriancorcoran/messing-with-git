@@ -13,3 +13,5 @@ Add the 5th line to master
 Add the 6th line to master
 
 Add the 7th line to master
+
+Add the 8th line to master
