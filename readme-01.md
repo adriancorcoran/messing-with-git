@@ -17,3 +17,9 @@ And now the third line
 Message on the main branch
 
 2nd message
+
+branch 1 change 1
+
+branch 1 change 2
+
+branch 1 change 3
